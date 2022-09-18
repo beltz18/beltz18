@@ -31,6 +31,7 @@ Nah, that's actually no my name, my real name is **Andi Montilla**, i'm from *Ve
   ![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=Django&logoColor=61DAFB)
   ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
   ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+  ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=61DAFB)
   ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb) 
 
