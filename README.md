@@ -50,6 +50,9 @@ Nah, that's actually no my name, my real name is **Andi Montilla**, i'm from *Ve
 
 ## More about me...
 My mother tongue is Spanish but i speak English very well and doing the imposible to improve my Deutsch :D
+<br />
+
+<img src="https://profile-counter.glitch.me/beltz18/count.svg" />
 ##
 I hope you come back to my profile soon!.
 
