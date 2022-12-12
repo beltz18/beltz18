@@ -17,8 +17,6 @@ Nah, that's actually no my name, my real name is **Andi Montilla**, i'm from *Ve
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
   ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 </td>
@@ -33,7 +31,9 @@ Nah, that's actually no my name, my real name is **Andi Montilla**, i'm from *Ve
   ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
   ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=61DAFB)
   ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb) 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
 
 </td>
 </tr>
