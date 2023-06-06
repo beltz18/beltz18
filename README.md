@@ -6,7 +6,7 @@ Nah, that's actually no my name, my real name is **Andi Montilla**, i'm from *Ve
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:anmdev32@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-montilla-602b57246/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCol7FsJOy_Hn4bQhzRLBcKw)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbY2eZcgJHga-OjLw2UIoSw)
 
 </span>
 
