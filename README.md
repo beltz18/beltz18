@@ -16,6 +16,7 @@ Nah, that's actually no my name, my real name is **Andi Montilla**, i'm from *Ve
   <h4>Languages I use</h4>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
   ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
