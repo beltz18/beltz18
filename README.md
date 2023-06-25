@@ -24,17 +24,18 @@ Nah, that's actually no my name, my real name is **Andi Montilla**, i'm from *Ve
 <td>
   <h4>Some of the technologies I have worked with</h4>
 
-  ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-  ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-  ![Flask](https://img.shields.io/badge/-Flask-222222?style=flat&logo=Flask&logoColor=61DAFB)
-  ![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=Django&logoColor=61DAFB)
-  ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-  ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-  ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker&logoColor=61DAFB)
-  ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
+  ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor)
+  ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 
 </td>
 </tr>
