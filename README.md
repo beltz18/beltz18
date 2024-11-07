@@ -1,22 +1,20 @@
-<h1><img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> Hi my name is Beltz Ahnxton...</h2>
+<h1><img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> Hi my name is Andi Montilla...</h2>
 
-Nah, that's actually no my name, my real name is **Andi Montilla**, i'm from *Venezuela* and i'm 25 years old (at 2023) Software Engineer - Full Stack Developer. You can contact with me through:
+With 5+ years of hands-on versatile experience as a Full Stack Developer, I build powerful and scalable applications that bridge front-end flair with back-end resilience. I thrive on collaboration with cross-functional teams, often leading agile groups of 5-10 to deliver impactful, user-centered projects. Known for my creative problem-solving and keen eye for debugging, I bring a balance of technical skill and innovation, consistently turning complex challenges into seamless, efficient solutions. Whether working under tight timelines or exploring the next big idea, I'm committed to crafting tech that makes the difference.
 
-<span align="right">
+You can contact me through:
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:anmdev32@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-montilla-602b57246/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbY2eZcgJHga-OjLw2UIoSw)
-
-</span>
+[![Gmail](https://img.shields.io/badge/-GMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andim.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andi-montilla-26134b2b5)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AndiDev18)
 
 <table>
 <tr>
 <td>
   <h4>Languages I use</h4>
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
   ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
@@ -24,15 +22,12 @@ Nah, that's actually no my name, my real name is **Andi Montilla**, i'm from *Ve
 <td>
   <h4>Some of the technologies I have worked with</h4>
 
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
   ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
   ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor)
-  ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
   ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
@@ -52,11 +47,14 @@ Nah, that's actually no my name, my real name is **Andi Montilla**, i'm from *Ve
 <br/>
 
 ## More about me...
-My mother tongue is Spanish but i speak English very well and doing the imposible to improve my Deutsch :D
+My mother tongue is Spanish but i speak English fluently
+
+
+Forever love to Spaghetti and Chocolate 😋
 <br />
 
 ## Coming soon...
-It's coming TIDV website, pages, portfolios, DynoDev with a lot of Courses and more... Don't lost the track we'll meet right there! 😄😄😄
+New courses in my YouTube Channel, Blog in my website and more! 😄😄😄
 <br />
 
 ##
@@ -64,4 +62,4 @@ It's coming TIDV website, pages, portfolios, DynoDev with a lot of Courses and m
 
 I hope you come back to my profile soon!.
 
-**Beltz**
+**Andi M**
